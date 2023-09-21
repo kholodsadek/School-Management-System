@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1695253566 source:d:\embedded system nti\level1 c programming\project\school_management_system project\school management system\school management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"STD_TYPES.h"
+	"Header.h"
+
+1695245049 d:\embedded system nti\level1 c programming\project\school_management_system project\school management system\school management system\std_types.h
+
+1695254657 d:\embedded system nti\level1 c programming\project\school_management_system project\school management system\school management system\header.h
+	<stddef.h>
+
+1695255059 source:d:\embedded system nti\level1 c programming\project\school_management_system project\school management system\school management system\function.c
+	"STD_TYPES.h"
+	"Header.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+
